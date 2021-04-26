@@ -1,0 +1,17 @@
+{
+  "name": "cloud_migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Graham",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.892.0",
+    "openstack-swift-client": "^2.1.0",
+    "yaml": "^1.10.2",
+    "yargs": "^16.2.0"
+  }
+}
